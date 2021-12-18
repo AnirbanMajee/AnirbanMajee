@@ -12,9 +12,10 @@ I'm Anirban Majee a Full Stack Web Developer and Marketing Analyzer. I Spend mos
 Top Technologies 👉👇
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
+<img src="https://img.shields.io/badge/Css-3776AB?style=for-the-badge&logo=css&logoColor=white" width="90" height="30">
+&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="90" height="30">
 &nbsp;
-img align="center" width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=a8hok&count_private=true&theme=radical" alt="ashok" />
+
 
 
