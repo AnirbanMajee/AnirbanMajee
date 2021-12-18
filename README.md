@@ -5,7 +5,7 @@ I'm Anirban Majee a Full Stack Web Developer and Marketing Analyzer. I Spend mos
 - 👀 I’m interested in Build cool stuff with new technology and gaining Programming Skill
 - 🌱 I’m currently learning Full Stack WebDev
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me just email at  < majeeanirban8@gmail.com > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90" height="30">&nbsp;
+- 📫 How to reach me just email at  < majeeanirban8@gmail.com > 
 - ⚡ Fun fact: I am Learning about Spirituality 
 
       If you know Programming then you are a Avenger, cause Programmers are save and build the World (WEB-3.0) 😎😎
