@@ -30,16 +30,16 @@ Top Technologies 👉👇
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="90" height="30">&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="90" height="30">&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="90" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="90" height="30">&nbsp;
+<img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" width="90" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="90" height="30">&nbsp;
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="90" height="30">&nbsp;
+<img src="	https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="90" height="30">&nbsp;
+<img src="	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="90" height="30">&nbsp;
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="90" height="30">&nbsp;
+<img src="	https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" width="90" height="30">&nbsp;
 <img src="" width="90" height="30">&nbsp;
-<img src="" width="90" height="30">&nbsp;
-<img src="" width="90" height="30">&nbsp;
-<img src="" width="90" height="30">&nbsp;
-<img src="" width="90" height="30">&nbsp;
-<img src="" width="90" height="30">&nbsp;
-<img src="" width="90" height="30">&nbsp;
-<img src="" width="90" height="30">&nbsp;
-<img src="" width="90" height="30">&nbsp;
-<img src="" width="90" height="30">&nbsp;
-<img src="" width="90" height="30">&nbsp;
+
+
 
 
