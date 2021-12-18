@@ -2,7 +2,7 @@
 
 I'm Anirban Majee a Full Stack Web Developer and Marketing Analyzer. I Spend most of time coding outstanding projects And Learning About New Technology.
 
-- 👀 I’m interested in Buld cool stuff with new technology and gaining Programming Skill
+- 👀 I’m interested in Build cool stuff with new technology and gaining Programming Skill
 - 🌱 I’m currently learning Full Stack WebDev
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me just email at  < majeeanirban8@gmail.com >
