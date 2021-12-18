@@ -16,6 +16,7 @@ Top Technologies 👉👇
 &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="90" height="30">
 &nbsp;
+	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 
 
 
