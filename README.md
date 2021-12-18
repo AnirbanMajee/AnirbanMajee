@@ -35,7 +35,7 @@ Top Technologies 👉👇
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="90" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="90" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="90" height="30">&nbsp;
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white" width="80" height="30">&nbsp;
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white" width="70" height="30">&nbsp;
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="80" height="30">&nbsp;
  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" width="90" height="30">&nbsp;
 
