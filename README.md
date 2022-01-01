@@ -39,9 +39,8 @@ Top Technologies 👉👇
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="80" height="30">&nbsp;
 <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" width="90" height="30">&nbsp; 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" width="90" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" width="90" height="30">&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="90" height="30">&nbsp;
+<img src="	https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" width="90" height="30">&nbsp;
 
 <img src="" width="90" height="30">&nbsp;
-
-
-
-
